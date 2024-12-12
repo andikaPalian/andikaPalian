@@ -3,7 +3,10 @@
 A passionate web developer from Indonesia.
 
 - 🌱 I’m currently learning **Fullstack Web Development** and focusing on **MERN stack**.
-- 📧 How to reach me: [andika12des@gmail.com](mailto:andika12des@gmail.com)
+- 🚀 Passionate about building scalable web apps
+- 💻 Coding my way through the digital world  
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/andika-palian-4b96b0309/)
+- 📩 Reach me: andika12des@gmail.com
 
 ## Connect with me:
 
