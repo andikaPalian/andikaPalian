@@ -1,7 +1,4 @@
-<p align="center">
-  Hi 👋, I'm Andika Palian
-</p>
-
+# Hi 👋, I'm Andika Palian
 
 A passionate web developer from Indonesia.
 
