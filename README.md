@@ -60,3 +60,7 @@ I am a software engineer based in **Indonesia** 🇮🇩, focusing on **backend 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaPalian&theme=tokyonight&hide_border=true" alt="Streak Stats" height="160" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
