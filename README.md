@@ -1,6 +1,7 @@
 <div align="center">
-  <h1 align="center">Hi, I'm Andika Palian 👋</h1>
-  <h3 align="center">Fullstack Developer • Backend Specialist • AI Enthusiast</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Andika+Palian+👋;Fullstack+Web+Developer;Backend+%26+AI+Enthusiast;Python+%26+Node.js+Expert" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     Building scalable backend systems and intelligent web applications.
@@ -53,14 +54,11 @@ I am a software engineer based in **Indonesia** 🇮🇩, focusing on **backend 
 
 ### 📊 GitHub Analytics
 
-<!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaPalian&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div> -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaPalian&theme=tokyonight&hide_border=true" alt="Streak Stats" height="160" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
-</div>
-
-<div align="center">
+  
+  <br/><br/>
+  
   <img src="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
