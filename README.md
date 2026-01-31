@@ -53,12 +53,16 @@ I am a software engineer based in **Indonesia** 🇮🇩, focusing on **backend 
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=andikaPalian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="400" alt="Andika's Github Stats" />
-      </td>
+<h3 align="left">📊 GitHub Analytics</h3>
+
+<div align="left">
+  <a href="https://github.com/andikaPalian">
+    <img src="https://github-readme-stats.vercel.app/api?username=andikaPalian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  </a>
+  <a href="https://github.com/andikaPalian">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" alt="top languages" />
+  </a>
+</div>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&langs_count=6" width="400" alt="Top Languages" />
       </td>
