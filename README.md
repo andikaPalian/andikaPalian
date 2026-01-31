@@ -1,7 +1,6 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Andika+Palian+👋;Fullstack+Web+Developer;Backend+%26+AI+Enthusiast;Python+%26+Node.js+Expert" alt="Typing SVG" />
-  </a>
+  <h1 align="center">Hi, I'm Andika Palian 👋</h1>
+  <h3 align="center">Fullstack Developer • Backend Specialist • AI Enthusiast</h3>
 
   <p align="center">
     Building scalable backend systems and intelligent web applications.
