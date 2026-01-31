@@ -53,6 +53,10 @@ I am a software engineer based in **Indonesia** 🇮🇩, focusing on **backend 
 
 ### 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaPalian&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div> -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaPalian&theme=tokyonight&hide_border=true" alt="Streak Stats" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="160" />
 </div>
