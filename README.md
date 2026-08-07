@@ -1,83 +1,196 @@
-<!-- Header Section with Dynamic Banner -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+<!-- 🎨  ANDIKA PALIAN — GitHub Profile README                         -->
+<!-- ════════════════════════════════════════════════════════════════════ -->
+
+<!-- Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Andika%20Palian&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20AI%20Specialist&descAlignY=55&descAlign=50" alt="Andika Palian Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:161b22,100:58a6ff&height=300&section=header&text=Andika%20Palian&fontSize=80&fontColor=58a6ff&animation=twinkling&fontAlignY=35&desc=⚡%20Software%20Engineer%20•%20Backend%20Architect%20•%20AI%20Builder%20⚡&descAlignY=55&descSize=18&descAlign=50&stroke=58a6ff&strokeWidth=2" width="100%" alt="Header"/>
 </div>
 
-<h3 align="center">
-  Architecting Scalable Systems & Bridging Modern Web Tech with Data Science 🚀
-</h3>
+<!-- Animated Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=%F0%9F%94%A5+Building+the+future+one+commit+at+a+time;%F0%9F%A7%A0+AI+%2B+Backend+%3D+My+Superpower;%F0%9F%9A%80+Turning+coffee+into+scalable+systems;%F0%9F%8E%AF+Clean+code+is+not+a+goal%2C+it's+a+habit" alt="Typing SVG" />
+  </a>
+</div>
 
+<br/>
+
+<!-- Social Badges — Sleek "for-the-badge" style -->
 <div align="center">
   <a href="https://www.linkedin.com/in/andika-palian-4b96b0309/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;
   <a href="mailto:andika12des@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>&nbsp;
   <a href="https://www.instagram.com/andika121204/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=andikaPalian&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
----
+<br/>
 
-### 👨‍💻 About Me
+<!-- Horizontal Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-I am a Software Engineer based in Makassar, Indonesia 🇮🇩, specializing in **Backend Engineering, Scalable APIs, and System Architecture**. I thrive on designing modular systems applying industry best practices and integrating **Artificial Intelligence (Computer Vision, NLP)** into production-ready applications.
+<!-- ─── ABOUT ME ──────────────────────────────────────────────────── -->
 
-- 🏗️ **Architectural Focus:** Microservices, Clean Architecture, and optimizing relational/NoSQL databases.
-- 🧠 **AI/ML Integration:** Actively implementing tools like Google Gemini, YOLOv8, and FinBERT into practical web solutions.
-- 🚀 **Currently Building:** **ParkirKi** (Smart Parking System) & **KIRA** (Personal AI Learning Companion).
-- 💡 **Engineering Philosophy:** *"Clean code always looks like it was written by someone who cares."*
+<h2>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  &nbsp;About Me
+</h2>
 
----
+```yaml
+name: Andika Palian
+location: Makassar, Indonesia 🇮🇩
+role: Software Engineer
+focus:
+  - Backend Engineering & System Architecture
+  - Scalable API Design (REST / GraphQL)
+  - AI/ML Integration (Computer Vision, NLP)
+superpower: Turning complex problems into elegant backend solutions
+currently_building:
+  - "🅿️ ParkirKi — Smart Parking System with CV"
+  - "🤖 KIRA — Personal AI Learning Companion"
+fun_facts:
+  - "I debug with console.log and I'm not ashamed 😎"
+  - "My code compiles on the first try... sometimes 🤞"
+  - "I mass ctrl+z is undo, ctrl+y is hope"
+motto: "Clean code always looks like it was written by someone who cares."
+```
 
-### 🛠️ Technical Arsenal
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ─── TECH STACK ────────────────────────────────────────────────── -->
+
+<h2>🛡️ Tech Arsenal</h2>
 
 <div align="center">
-
-**Backend & Architecture**<br>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**Data Science & AI**<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Frontend & UI**<br>
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**Database & Infrastructure**<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
-
+<table>
+<tr>
+<td align="center" width="50%">
+<h3>⚙️ Backend & Architecture</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,laravel,fastapi&perline=5" alt="Backend"/>
+</td>
+<td align="center" width="50%">
+<h3>🧠 AI & Data Science</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=3" alt="AI"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h3>🎨 Frontend & Design</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,figma&perline=5" alt="Frontend"/>
+</td>
+<td align="center" width="50%">
+<h3>🗄️ Database & DevOps</h3>
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prisma,docker,git&perline=3" alt="DB & DevOps"/>
+</td>
+</tr>
+</table>
 </div>
 
----
+<br/>
 
-### 🔥 Featured Engineering Projects
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-| Project | Description | Core Tech Stack |
-|---------|-------------|-----------------|
-| **[PREDICTIVE MAINTANANCE GATEWAY]([https://github.com/andikaPalian](https://github.com/andikaPalian/predictive-maintenance-gateway))** | IoT machine failure prediction with the help of machine learning using microservice architecture | `Express.js` `Node.js` `FastAPI` `RabbitMQ` `Docker` |
+<!-- ─── FEATURED PROJECTS ─────────────────────────────────────────── -->
 
----
+<h2>🔥 Featured Projects</h2>
 
-### 📊 GitHub Analytics
+<table>
+<tr>
+<td>
+
+### 🏭 [Predictive Maintenance Gateway](https://github.com/andikaPalian/predictive-maintenance-gateway)
+
+IoT machine failure prediction powered by **Machine Learning** using **microservice architecture**. Real-time sensor data processing with event-driven communication.
+
+`Express.js` `Node.js` `FastAPI` `RabbitMQ` `Docker`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ─── GITHUB STATS ──────────────────────────────────────────────── -->
+
+<h2>📊 GitHub Analytics</h2>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=andikaPalian&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" alt="Top Languages" height="180"/>
+</div>
+
+<br/>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=andikaPalian&theme=github-dark-blue&hide_border=true&border_radius=15&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="Streak Stats" width="60%"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andikaPalian&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=📈%20Contribution%20Activity" alt="Activity Graph" width="95%"/>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ─── RANDOM DEV QUOTE ──────────────────────────────────────────── -->
+
+<h2>💬 Dev Quote of the Day</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andikaPalian&theme=tokyonight&hide_border=true&border_radius=5" alt="Streak Stats" height="160" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andikaPalian&layout=compact&theme=tokyonight&hide_border=true&border_radius=5&langs_count=6" alt="Top Languages" height="160" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" width="70%"/>
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- ─── FOOTER ────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=150&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <b>⭐ From <a href="https://github.com/andikaPalian">andikaPalian</a> — Let's build something amazing together!</b>
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="80%" />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
+  <br/>
+  <i>I love connecting with different people, so if you want to say hi, I'll be happy to meet you! 😄</i>
 </div>
