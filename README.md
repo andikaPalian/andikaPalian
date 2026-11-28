@@ -23,7 +23,6 @@ An event-driven IoT platform that turns equipment telemetry into real-time anoma
 
 ### Currently building
 
-- **🅿️ ParkirKi** — A smart parking system powered by computer vision.
 - **🤖 KIRA** — A personal AI companion for learning.
 
 ## ⚙️ Toolkit
