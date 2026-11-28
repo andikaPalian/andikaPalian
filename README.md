@@ -17,6 +17,12 @@ I enjoy working on event-driven systems, from routing sensor data to delivering 
   <a href="https://www.instagram.com/andika121204/"><img src="https://img.shields.io/badge/Instagram-38265A?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 </p>
 
+<p>
+  <strong>Support</strong> &nbsp;
+  <a href="https://saweria.co/andikaPalian"><img src="https://img.shields.io/badge/Saweria-97541D?style=flat-square" alt="Support on Saweria"></a>
+  <a href="https://yapp.ink/andikaPalian"><img src="https://img.shields.io/badge/Yapp-305CA8?style=flat-square" alt="Support on Yapp"></a>
+</p>
+
 <br clear="right">
 
 ## 💥 Projects
