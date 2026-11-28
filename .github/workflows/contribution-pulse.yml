@@ -1,0 +1,51 @@
+name: Update Contribution Pulse
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/contribution-pulse.yml'
+      - 'scripts/render-contribution-pulse.mjs'
+  schedule:
+    - cron: '15 0 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: contribution-pulse
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/checkout@v6
+        with:
+          ref: output
+          path: .contribution-output
+
+      - name: Render public GitHub contribution data
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_LOGIN: ${{ github.repository_owner }}
+        run: |
+          set -o pipefail
+          gh api graphql \
+            -f login="$PROFILE_LOGIN" \
+            -f query='query($login: String!) { user(login: $login) { contributionsCollection { contributionCalendar { weeks { contributionDays { date contributionCount } } } } } }' \
+            --jq '.data.user.contributionsCollection.contributionCalendar.weeks' \
+            | node scripts/render-contribution-pulse.mjs > .contribution-output/contribution-pulse.svg
+
+      - name: Publish chart on the output branch
+        working-directory: .contribution-output
+        run: |
+          git add -- contribution-pulse.svg
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' \
+            -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -m 'Update Contribution Pulse'
+          git push origin HEAD:output

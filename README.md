@@ -2,16 +2,22 @@
   <img src="./assets/impact-banner.svg" width="100%" alt="Andika Palian">
 </h1>
 
-<p align="center">
-  <strong>Software engineer</strong> based in Makassar, Indonesia 🇮🇩<br>
-  I build backend systems, design APIs, and make AI useful in everyday applications.
+## 👋 About me
+
+<img align="right" src="./assets/terminal-mascot.svg" width="160" alt="A smiling terminal bot waves hello">
+
+I'm a **software engineer** from Makassar, Indonesia 🇮🇩. I build backend systems, design REST and GraphQL APIs, and integrate AI into apps.
+
+I enjoy working on event-driven systems, from routing sensor data to delivering real-time alerts.
+
+<p>
+  <a href="https://andikapalian.my.id/"><img src="https://img.shields.io/badge/Portfolio-6241A4?style=flat-square&amp;logo=githubpages&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/andika-palian-4b96b0309/"><img src="https://img.shields.io/badge/LinkedIn-38265A?style=flat-square" alt="LinkedIn"></a>
+  <a href="mailto:andika12des@gmail.com"><img src="https://img.shields.io/badge/Email-38265A?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/andika121204/"><img src="https://img.shields.io/badge/Instagram-38265A?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram"></a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/andika-palian-4b96b0309/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:andika12des@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://www.instagram.com/andika121204/">Instagram</a>
-</p>
+<br clear="right">
 
 ## 💥 Projects
 
@@ -27,6 +33,11 @@ An event-driven IoT platform that turns equipment telemetry into real-time anoma
 
 ## ⚙️ Toolkit
 
+<img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,python,postgres,redis,docker&amp;theme=dark" width="336" alt="TypeScript, Node.js, NestJS, Python, PostgreSQL, Redis, Docker">
+
+<details>
+<summary>Full toolkit</summary>
+
 | Area | Tools |
 | --- | --- |
 | Backend & APIs | Node.js, NestJS, Express, Laravel, FastAPI · REST & GraphQL |
@@ -34,20 +45,17 @@ An event-driven IoT platform that turns equipment telemetry into real-time anoma
 | Databases & infrastructure | PostgreSQL, MongoDB, Redis, Prisma, Docker, Git |
 | Frontend & design | React, Next.js, JavaScript, TypeScript, Figma |
 
+</details>
+
 > My first debugging breakpoint is sometimes a well-placed `console.log`.
 
-## 🐍 GitHub activity
+## 📈 Contribution Pulse
 
-[See my contributions ↗](https://github.com/andikaPalian#contributions)
+<a href="https://github.com/andikaPalian#contributions">
+  <img src="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/contribution-pulse.svg" width="100%" alt="GitHub contributions per week across the last 12 complete weeks">
+</a>
 
-<details>
-<summary>Watch the contribution snake</summary>
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/andikaPalian/andikaPalian/output/github-contribution-grid-snake.svg" width="100%" alt="An animated snake moves through my GitHub contribution grid">
-</picture>
-</details>
+[View contributions on GitHub ↗](https://github.com/andikaPalian#contributions)
 
 ---
 

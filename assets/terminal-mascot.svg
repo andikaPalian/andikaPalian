@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 166" role="img" aria-labelledby="title">
+  <title id="title">A smiling terminal bot waves hello</title>
+  <style>
+    @media (prefers-reduced-motion: no-preference) {
+      .wave { animation: wave 1.4s .25s ease-in-out 2; transform-origin: 131px 119px; }
+      .eyes { animation: blink 2.8s .25s ease-in-out 2; transform-origin: 80px 76px; }
+      .spark { animation: sparkle 1.4s .25s ease-in-out 2; }
+      @keyframes wave { 20%, 65% { transform: rotate(-13deg); } 42%, 86% { transform: rotate(10deg); } }
+      @keyframes blink { 45%, 54% { transform: scaleY(1); } 49% { transform: scaleY(.10); } }
+      @keyframes sparkle { 45% { opacity: .35; } }
+    }
+  </style>
+
+  <ellipse cx="87" cy="150" rx="58" ry="8" fill="#9371d6" opacity=".23"/>
+  <g stroke="#24183b" stroke-width="3.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M57 113q-12 14-5 27h57q14-15-2-30z" fill="#b795ff"/>
+    <path d="M54 140h22v6H45q-2-7 9-6zm40 0h20q10 1 8 6H94z" fill="#fbf6ff"/>
+    <path d="M56 120q-18 8-24-4" fill="none"/>
+    <path d="M32 116c-7 1-9-4-7-8 3-5 11-3 12 1 1 4-1 7-5 7z" fill="#ffc1e7"/>
+    <path d="M75 123h12l-6 11" fill="none"/>
+
+    <g class="wave">
+      <path d="M105 119q17 6 26-1l9-14" fill="none" stroke-width="5"/>
+      <path d="M137 105c-5-2-13-9-12-14 1-4 6-4 11 0l-8-14c-3-5 3-8 6-4l9 13-5-18c-1-6 6-7 8-1l5 17 1-15c0-5 7-5 7 1v23c0 11-7 17-15 17z" fill="#ffc1e7"/>
+    </g>
+
+    <g transform="rotate(-8 79 74)">
+      <path d="M77 38V23l13-9" fill="none"/>
+      <circle cx="92" cy="13" r="5" fill="#ffc1e7"/>
+      <rect x="26" y="38" width="106" height="73" rx="18" fill="#5f429c"/>
+      <rect x="25" y="36" width="100" height="70" rx="17" fill="#f3e9ff"/>
+      <rect x="35" y="45" width="80" height="51" rx="11" fill="#2b1d48"/>
+      <path class="eyes" d="m53 65 9 8-9 8m47-16-9 8 9 8" stroke="#f1d7ff" fill="none"/>
+      <path d="M70 83q7 10 14 0" stroke="#ffc1e7" fill="none" stroke-width="2.8"/>
+    </g>
+  </g>
+
+  <g class="spark" stroke="#8a59cb" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M155 34l4 9 10 3-9 4-4 9-4-9-10-4 10-4z" fill="#ffc1e7"/>
+    <path d="m165 70 9-5m-6 19 10-1M16 64l-7-7m10 21-11-2" fill="none"/>
+    <path d="m165 126 8-3-4 9z" fill="#b795ff"/>
+  </g>
+</svg>
